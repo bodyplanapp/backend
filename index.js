@@ -1,8 +1,8 @@
 'use strict'
 
 // const Sequelize = require('sequelize');
-const app = require('./app');
-const config = require('./config')
+const app = require('./app/app');
+const config = require('./config/config')
 
 // const sequelize = new Sequelize('bodyplan', 'bodyplan', 'bodyplan', {
 //     host: 'localhost',
